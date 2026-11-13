@@ -1,0 +1,17 @@
+OrderID, Month, Category, Amount
+
+1, Jan, Grocery, 2000
+
+2, Jan, Clothing, 3000
+
+3, Feb, Grocery, 2500
+
+4, Feb, Electronics, 10000
+
+5, Mar, Grocery, 3000
+
+6, Mar, Clothing, 2000
+
+7, Apr, Electronics, 8000
+
+8, Apr, Grocery, 3500
