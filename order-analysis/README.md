@@ -18,12 +18,12 @@ A Python project that analyzes order data from a CSV file and visualizes monthly
 - Matplotlib
 
 ## Project structure
-
-
+```
 order-analysis/
 ├── one .py        # main script
 ├── orders.csv     # order dataset
 └── README.md
+```
 
 
 ## How to run
