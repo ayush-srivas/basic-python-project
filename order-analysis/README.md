@@ -55,5 +55,5 @@ order-analysis/
 
 ## Author
 
-*Ayush Srivas*
+*Ayush Srivastava*
 GitHub: [@ayush-srivas](https://github.com/ayush-srivas)
