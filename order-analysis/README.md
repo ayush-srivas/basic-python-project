@@ -40,11 +40,6 @@ order-analysis/
 3. Run the script (the quotes are needed because of the space in the filename):
    
    python "one .py"
-   
-
-## Sample output
-
-[Add a screenshot of your chart here, or describe the results, e.g. "Sales peak in November."]
 
 ## What I learned
 
