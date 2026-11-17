@@ -50,19 +50,19 @@ The CSV file must have these columns:
 
 ### 1. Main Menu
 
-![Main Menu](images/menu.png)
+![Main Menu](images/main-menu.png)
 
 ### 2. Option 1: Monthly Spending (text output and bar chart)
 
-![Monthly Spending](images/monthly_spending.png)
+![Monthly Spending](images/OUTPUT-1.png)
 
 ### 3. Option 2: Order Statistics
 
-![Order Statistics](images/order_statistics.png)
+![Order Statistics](images/OUTPUT-2.png)
 
 ### 4. Option 3: Category Share (text output and pie chart)
 
-![Category Share](images/category_share.png)
+![Category Share](images/OUTPUT-3.png)
 
 ---
 
